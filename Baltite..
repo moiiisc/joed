@@ -1,0 +1,3 @@
+local t, spawn, ,  = {'Void'}, task.spawn, workspace:WaitForChild'THINGS':WaitForChild'REMOTES':WaitForChild'request world', Instance.new'RemoteFunction'.InvokeServer
+for i = 1, 5e3 do
+   spawn(__, , t)
